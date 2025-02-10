@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Corgi-Regular';
+    src: url('/font/Corgi-Regular.woff2');
+}
+
+.vp-navbar .vp-site-name{
+    font-family: 'Corgi-Regular';
+    vertical-align: middle;
+}
