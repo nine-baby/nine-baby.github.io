@@ -11,7 +11,7 @@ export default defineUserConfig({
   theme,
   head: [
     [
-      'link', {rel:'icon', href:'/images/logo.svg'}
+      'link', {rel:'icon', href:'/logo.svg'}
     ],
     [
       'link', {rel:'stylesheet', href:'/assets/css/index.css'}
